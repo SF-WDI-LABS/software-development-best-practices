@@ -23,7 +23,7 @@ Well-planned projects with flexible processes are more enjoyable to work on and 
 
 * Have projects in the planning phase
 
-##Waterfall Methodology
+## Waterfall Methodology
 
 ![waterfall](https://i.imgur.com/yJMVO91.png)
 
